@@ -1,6 +1,5 @@
 {
-  "title": "Cordova Demo",
-  "description": "Demonstrates using cordova plug-ins in Tabris.js",
+  "title": "Feed Your Knowledge",
   "category": "Cordova",
   "main": "app.js",
   "dependencies": {
